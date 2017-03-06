@@ -23,6 +23,6 @@ Running :
 
 > open your browser.
 
-Thanks to create-react-app boilerplate and 
+Thanks to create-react-app boilerplate
 
 - py
